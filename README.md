@@ -1,1 +1,1 @@
-# Jet-Turbine
+# Jet-Turbine:This project explores turbine blade defect classification using a Swin Transformer Tiny (Swin-T) model trained from scratch.It classifies annotated defect regions into four categories: Crack, Dent, Inclusion, and Porosity.Model performance is assessed using accuracy, precision, recall, F1-score, and classification mean average precision.
